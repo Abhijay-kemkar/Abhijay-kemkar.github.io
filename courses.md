@@ -2,15 +2,15 @@
 layout: default
 ---
 
-### Computer Science
+### Mechanical Engineering
 
-* Computer Programming
-* Object Oriented Programming
-* Logic in Computer Science
-* Database Systems
-* Digital Design
-* Microprocessors & Interfacing
-* Discrete Structures for Computer Science
+* Kinematics and Dynamics of Machines
+* Machine Design and Drawing
+* IC Engines
+* Mechanics of Solids
+* Fluid Mechanics
+* Applied Thermodynamics
+* Material Sciences
 * Data Structures and Algorithms
 * Computer Architecture
 * Operating Systems
@@ -22,7 +22,7 @@ layout: default
 
 ### Discipline Electives
 
-* Neural Networks & Fuzzy Logic
+* Robotics
 * Information Retrieval
 * Data Mining
 
@@ -35,10 +35,10 @@ layout: default
 
 ### Other Courses
 
-* **Linguistics**
+* Computer Programming
 * Principles of Economics
-* Creative Thinking
-* Business Communication
+* Cinematic Adaptation
+* Technical Report Writing
 * General Biology
 * General Chemistry
 * Workshop Practice
