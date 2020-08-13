@@ -10,19 +10,17 @@ Hi! I am Abhijay. I am a pre-final year student at Birla Institute of Technology
 
 I most recently worked as an Inderpendant researcher under [Hanna Hans](https://www.linkedin.com/in/hanna-hans-360a8718a/) at [Thynklogy](https://thynklogy.com). I focused on designing and developing an Autonomous UAV navigation and human detection algorithm. I also worked on existing Human Detection algorithms such as HOG and Haar Cascades, and UAV navigation algorithms such as FIESTA, Voxblox and Artificial Potential Fields. For the implementation, I made a simple CNN architecture to detect humans trained on the MIT Pedestrian Dataset.
 
-I previously worked under [Prof. Chris Biemann](https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/chris-biemann.html) at the [Language Technology Lab](https://www.inf.uni-hamburg.de/en/inst/ab/lt/home.html) in [Universität Hamburg](https://www.uni-hamburg.de/en.html), as a scholar of the [DAAD-WISE](https://www.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?daad=1&detail=50015295&origin=4&page=1&q=wise&status=1&subjectGrps=) scholarship. I worked on query-autocompletion for unseen prefixes, mostly experimenting with using contextualized embeddings to better capture the sense. Details can be found in my résumé/CV or under the projects section. 
+I am currently working under [Prof. Solomon Raju](https://www.ceeri.res.in/profiles/kota-solomon-raju/) at the [CRIS Central Electronics Engineering Research Institute](https://www.ceeri.res.in) in Pilani, as a research Asistant. I worked on Sructural Health Monitoring using Machine Learning, mostly experimenting with 2nd order ODE to better capture the model curvature and matrix curvature analysis. Details can be found in my résumé/CV or under the projects section. 
 
-In my sophomore year, I was lucky to get selected for [Google Summer of Code, 2018](https://summerofcode.withgoogle.com/archive/2018/projects/6278298501906432/) as a part of the amazing [BioJS](biojs.net) community. I was mentored by [Rowland Mosbergen](https://twitter.com/rowlandm?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), [Yo Yehudi](http://yo-yehudi.com/) and [Dennis Schwartz](https://uk.linkedin.com/in/dennis-schwartz-093315b3). 
+I also interned at [Plastic Water Labs, Bangalore](http://www.plasticwaterlabs.com), a research lab, where I worked on a Defect Detection algorithms using Deep Learnging and Convolutional Neural Networks.
 
-I also interned at [Indian Institute of Remote Sensing](https://www.iirs.gov.in/), a research centre of [Indian Space Research Organization (ISRO)](https://www.isro.gov.in/), where I worked on a flight planning software for a UAV.
-
-I am a huge fan of travelling, mostly travelling cheap and light. I was able to travel 21 countries before I turned 21 years old (Nov 19)! I am also a huge fan of electronic music, having attended [Tomorrowland, 2019](http://tomorrowland.com) and [Airbeat One, 2019](http://www.airbeat-one.de)!!!
+I am a huge fan of travelling, already visitefd 6 countries and counting! I am also a huge fan of TV series, having watched motly all of the popular sitcoms, sci fi and horror shows!! I am also a national level chess player and was the youngest one to win the uner 7 age categories in the states!
 
 ---
 
 ## Research Interest
 
-My research interests primarily lie in the field of machine learning and artificial intelligence, as well as their applications. I am fascinated by the **human language** and pretty much everything related to it, though I am slightly inclined towards researching on language as a tool for **human-computer interaction** and that sparks my interest in **dialogue systems and question answering models**. I have also developed an interest in **multimodal learning**, researching at the intersection of natural language processing and computer vision.
+My research interests primarily lie in the field of Robotics and machine learning, as well as their applications. I am fascinated by **Bipeds** and pretty much everything related to it, though I am slightly inclined towards researching on the human walking mechanismns as a tool for **Humanoid Robots** and that sparks my interest in **bipedal locomotion**. I have also developed an interest in **UAVs**, researching at the intersection of Robotics and computer vision.
 
 ---
 
