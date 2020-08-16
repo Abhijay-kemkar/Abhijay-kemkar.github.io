@@ -21,14 +21,6 @@ I worked remotely under [Hanna Hans](https://www.linkedin.com/in/hanna-hans-360a
 
 ---
 
-### **BioJS Website | Google Summer of Code**
-
-*May 2018 - August 2018*
-
-I led the development of a new [website for BioJS](http://biojs.net), a library of over hundred JavaScript components that enables one to visualize and process data using current web technologies. The backend stack used Django and frontend used VueJS. Timely database updates are facilitated from Github and the npm-registry.
-
----
-
 ### **Machine Learning for Defect Analysis | Plastic Water Labs, Bangalore**
 
 *May 2018 - July 2018*
@@ -43,35 +35,35 @@ The main problem was that the size was not a feature to be dicided as it require
 
 ---
  
-### **Toy Compiler | Mentor: [Dr. Vandana Agarwal](https://universe.bits-pilani.ac.in/pilani/vandana/profile)**
+### **Finding Shortest Path for a 2 DOF Robot using Dijkstra and A* Algorithm | [Computational Motion Planning](https://drive.google.com/file/d/1_RmvLnQSR1D0xzanoOlTDYPMfPfIB8wt/view?usp=sharing)**
 
-*January 2019 - April 2019*
+*March 2020 - May 2020*
 
-Developed a small compiler for a dummy language in the C language, as a part of partial fulfilment of the course **Compiler Construction**. Different modules of the compiler included **lexer**, **parser** in the front-end and **AST generator**, **semantic analyzer**, **type checker** and **assembly code generator** in the backend.
-
----
-
-### **Visual Question Answering | Mentor: [Dr. Dhiraj Sangwan](https://www.ceeri.res.in/profiles/dhiraj-sangwan/)**
-
-*August 2018 - November 2018*
-
-Created a model for visual question answering on the VQA dataset. Used **pre-trained VGG16** weights to extract image features and a **stacked LSTM** architecture for extracting question features. Used **multimodal low rank bilinear pooling** to combine both the feature matrices.
+Developed a path planning algorithm for a dummy Robot in matlab. In a 2-Dimensional 11×11 grid Configuration space consisting of obstacles, the path planned by **Dijkstra** and **A star algorithm** from a start and end node was compared.
 
 ---
 
-### **Feedback-based Retrieval System with Sentence Ranking | Mentor: [Dr. Poonam Goyal](https://www.bits-pilani.ac.in/pilani/poonam/Profile)**
+### **Classification and Prediction of Land Buyers using Machine Learning Algorithms | [Machine Learning](https://drive.google.com/file/d/19Zatt3T9Ap0QaPr_MSK9SZSwYSnaKUo-/view?usp=sharing)**
+
+*February 2020 - March 2020*
+
+The Classifier Machine Learning model uses Algorithms like **SVM**, and **Decision Trees** to predict whether a client would buy land based on the Dataset of age and Annual income of the buyer and thus classifying them into two categories, buyer and not the buyer. This is a case of **supervised learning** where the algorithm is first trained on a set of clients pursued in the past years.
+
+---
+
+### **Sudoku Solver | [Computer Vision and Backtracking](https://github.com/Abhijay-kemkar/Sudoku)**
+
+*July 2020 - August 2020*
+
+Created a sudoku solving application which scans for sudoku puzzle from the primary camera video, identifies the digits using **Image Processing** and **Computer Vision** and extracts them via a **CNN model** trained on **MNIST database**. Solves the sudoku via the **backtracking algorithm** and overlays the solution on the puzzle being scanned by the camera.
+
+---
+
+### **Quadrotor Trajectories Planning and Control | Mentor: [Dr. Lavika Goyal](https://www.bits-pilani.ac.in/pilani/lavikagoel/profile)**
 
 *October 2018 - November 2018*
 
-Designed and implemented an efficient retrieval framework for text documents. Used **tf-idf** based scoring methods to rank documents and used the **BM25** algorithm to find the best match in a document. Monitored user clicks on documents and made future recommendations based on these clicks. 
-
----
-
-### **Convolutional Neural Networks in Scala | Mentor: [Dr. Lavika Goyal](https://www.bits-pilani.ac.in/pilani/lavikagoel/profile)**
-
-*October 2018 - November 2018*
-
-Developed a two layer deep convolutional neural network in scala using purely **functional programming concepts**, as a part of partial fulfilment of the course **Principles of Programming Languages**.
+Design an implementation of a controller for a **3D quadrotor**. Tested the controller with two trajectories, the first one was a line trajectory and the second one was a more complex helical shaped trajectory. Also, Implemented a trajectory generator which outputs **time parameterised trajectories** which allows a quad-rotor to fly through pre-decided waypoints.
 
 ---
 <!--
