@@ -5,19 +5,19 @@ layout: default
 ## Experience 
 ---
 
-### **Next Utterance Prediction and Conversation Disentanglement; SER; API Gateway | NTU, Singapore**
+### **Machine Learning for Structural Health Monitoring | CRIS Central Electronics Engineering Research Institute**
 
-*August 2019 - Present*
+*August 2020 - Present*
 
-I am working as a research intern at the **Multimedia and Interactive Computing Lab** under [Prof. Chng Eng-Siong](https://www.ntu.edu.sg/home/aseschng/). I am working on transformer based architectures (starting with BERT and modifying it, such as adding utterance level transformer layers) for next sentence prediction and conversation disentanglement (dstc [7](http://workshop.colips.org/dstc7/)/[8](https://sites.google.com/dstc.community/dstc8)). I also developed an API Gateway that acts as a common interface for modules already developed by fellow researchers, such as SUD and summarization. I further developed a basic CNN based model for emotion recognition from speech ([RAVDESS](https://zenodo.org/record/1188976#.Xfz4G9YzbRY) dataset) as a contribution to the API Gateway.
+I am working as a research intern at **CEERI, Pilani** under [Prof. Solomon Raju](https://www.ceeri.res.in/profiles/kota-solomon-raju/). I am working on analyze Machine Learning algorithms for smart sensors like acoustic, strain gauges, and image processing and their use in the advancement of [Structural Health Monitoring](https://en.wikipedia.org/wiki/Structural_health_monitoring). I also developed the model curvature and matrix curvature analysis of these mothords using Machine Learning.. I further Implemented 2nd order ODE to find an alternative to NDT via the use of python in the Linear Regression Model. 
 
 ---
 
-### **Query AutoCompletion for Unseen Prefixes | Universität Hamburg, Hamburg**
+### **Autonomous UAV Based Human Detection System for Search and Rescue  | Thynklogy, Silicon Valley, California**
 
-*May 2019 - July 2019*
+*May 2020 - Present*
 
-I worked at [Language Technology Lab](https://www.inf.uni-hamburg.de/en/inst/ab/lt/home.html) under [Prof. Chris Biemann](https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/chris-biemann.html), under the [DAAD-WISE](https://www.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?daad=1&detail=50015295&origin=4&page=1&q=wise&status=1&subjectGrps=) scholarship programme. I worked on a hybrid charcter+word level neural language model for generating completed queries for unseen prefixes. I experimented with the recently developed contextualized word embeddings such as BERT, Flair, ELMo as well as a combination of Fasttext and sent2vec, to capture the context of the query and provide better suggestions. I also used beam search for the query generation task and LambdaMART for re-ranking the suggestions. The model was able to beat the previous state-of-the-art by an increase of 2.2% in the MRR score on the AOL search log dataset.
+I worked remotely under [Hanna Hans](https://www.linkedin.com/in/hanna-hans-360a8718a/). I Designed and Developed an Independent project which aims to develop a path planning algorithm that maximises the rate of detecting humans in an urban search operation. I experimented with the recently developed path planning algorithms such as APF, voxblox as well as a ESDF maps, to autonomously find a route, avoiding all obstracles in a 3D environment. I also used Computer Vision and Image Processing techniques and a Convolutional Neural Network trained to scan and identify the structure of humans via a primary camera installed on the drone.
 
 ---
 
@@ -29,15 +29,13 @@ I led the development of a new [website for BioJS](http://biojs.net), a library 
 
 ---
 
-### **UAV Flight Planner with Shadow Exclusion | IIRS, ISRO**
+### **Machine Learning for Defect Analysis | Plastic Water Labs, Bangalore**
 
 *May 2018 - July 2018*
 
-I worked at [Indian Institute of Remote Sensing](http://www.iirs.gov.in/), [Indian Space Research 
-Organization (**ISRO**)](http://www.isro.gov.in/) in the summer of 2018. I was working in the project 
-titled "*UAV Flight Planner with Shadow Exclusion*". The project involved the creation of an application that would automatically generate equally distant coordinates for capturing images by the **UAV for altitude varying terrain**, along with minimising the area covered that suffers from a shadow layer.
+I worked at [Plastic Water Labs](http://www.iirs.gov.in/) in the summer of 2020. I was working in the project titled "*Defect Detection based on images from basic cameras*". The project involved the creation of an application that would automatically detect defects in a product by capturing images and running them through the **Machine Learning Algorithm**, along with classifying them on the basis of size and colour.
 
-The main problem was that the UAV did not have on-board processors, and hence, I had to devise a way by which areas under a shadow could be identified beforehand. I took the advantage of the area of interest being mountaineous. I used **Bresenhamm's line drawing algorithm** to trace a ray from the ground point immediately below the UAV to the position of the sun at which the readings will be taken. I extracted height data from HGT files and using a raster map with height values below the ray formed, I checked if the graph value at a coordinate was more than the ray's coordinate, a method similar to the one used in video games to generate shadows. The idea worked. This project gave me the inspiration to face problems with novel, off-the-track ideas.  
+The main problem was that the size was not a feature to be dicided as it required a refernce frame, and hence, I had to devise a way by which a white square of known dimentions was scanned and then the sixe of the object of interest could be identified after. I extracted height and width data from running the model on the white square and using it as a reference, I checked the size of other objects. The idea worked. This project gave me the inspiration to face problems with novel, off-the-track ideas.  
 
 ---
 
