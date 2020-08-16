@@ -8,9 +8,9 @@ layout: default
 
 Hi! I am Abhijay. I am a pre-final year student at Birla Institute of Technology and Science (BITS), Pilani, majoring in Mechanical Engineering. I am broadly interested in Robotics, particularly in Aeriel Robotics, UAVs, Motion Planning and Machine Learning.
 
-I most recently worked as an Inderpendant researcher under [Hanna Hans](https://www.linkedin.com/in/hanna-hans-360a8718a/) at [Thynklogy](https://thynklogy.com). I focused on designing and developing an Autonomous UAV navigation and human detection algorithm. I also worked on existing Human Detection algorithms such as HOG and Haar Cascades, and UAV navigation algorithms such as FIESTA, Voxblox and Artificial Potential Fields. For the implementation, I made a simple CNN architecture to detect humans trained on the MIT Pedestrian Dataset.
-
 I am currently working under [Prof. Solomon Raju](https://www.ceeri.res.in/profiles/kota-solomon-raju/) at the [CRIS Central Electronics Engineering Research Institute](https://www.ceeri.res.in) in Pilani, as a research Asistant. I worked on Sructural Health Monitoring using Machine Learning, mostly experimenting with 2nd order ODE to better capture the model curvature and matrix curvature analysis. Details can be found in my résumé/CV or under the projects section. 
+
+I most recently worked as an Inderpendant researcher under [Hanna Hans](https://www.linkedin.com/in/hanna-hans-360a8718a/) at [Thynklogy](https://thynklogy.com). I focused on designing and developing an Autonomous UAV navigation and human detection algorithm. I also worked on existing Human Detection algorithms such as HOG and Haar Cascades, and UAV navigation algorithms such as FIESTA, Voxblox and Artificial Potential Fields. For the implementation, I made a simple CNN architecture to detect humans trained on the MIT Pedestrian Dataset.
 
 I also interned at [Plastic Water Labs, Bangalore](http://www.plasticwaterlabs.com), a research lab, where I worked on a Defect Detection algorithms using Deep Learnging and Convolutional Neural Networks.
 
