@@ -30,5 +30,7 @@ Post | Organization | Duration
 --- | --- | ---
 Logistics Head | Department of External Affairs, BITS Pilani | March 2020 - Present
 Member | Student Faculty Council | August 2019 - Present
+Project Coordinator | Mechanical Engineering Association, BITS Pilani | May 2020 - Present
+Vice Captain | Chess Team, BITS Pilani | October 2019 - Present
 
 ---
