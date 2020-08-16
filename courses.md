@@ -12,13 +12,9 @@ layout: default
 * Applied Thermodynamics
 * Material Sciences
 * Data Structures and Algorithms
-* Computer Architecture
-* Operating Systems
-* Theory of Computation
-* Principles of Programming Languages
-* Compiler Construction
-* Computer Networks
-* Design and Analysis of Algorithms
+* Pattern Recognition
+* Discrete Mathematics
+* Heat Transfer
 
 ### Discipline Electives
 
