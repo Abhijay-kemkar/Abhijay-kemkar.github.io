@@ -10,9 +10,6 @@
 - name: "Projects"
   link: "projects"
 
-- name: "Résumé/CV"
-  link: "cv"
-
 - name: "Home"
   link: "https://Abhijay-Kemkar.github.io"
 
