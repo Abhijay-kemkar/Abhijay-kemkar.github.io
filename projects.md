@@ -5,6 +5,14 @@ layout: default
 ## Experience 
 ---
 
+### **Video Instance Segmentation | Visual Computing Group, Harvard John A. Paulson School Of Engineering And Applied Sciences**
+
+*September 2020 - Present*
+
+I am currently wokring as a research intern in Computer Vision under [Prof. Hanspeter Pfister](https://www.seas.harvard.edu/person/hanspeter-pfister) with the [Visual Computing Group, Harvard ](https://vcg.seas.harvard.edu). Working on Video Instance Segmentation and Annotation for multi-scene, long-term shots using deep learning to publish a paper in CVPR'21 which presents a new video instance segmentation benchmark dataset, with 200 full-length top popular Youtube videos from 10 major video genres and 500K high-quality instance masks. Then, it also proposes the novel Shot-aware Multi-bank Memory (SMM) module to better integrate features from previous frames to support queries for long-term and cross-shot object segmentation. The team believe the cross-scene video instance segmentation task will motivate the community to advance in long-term video understanding and real-world video analytic applications.
+
+---
+
 ### **Machine Learning for Structural Health Monitoring | CRIS Central Electronics Engineering Research Institute**
 
 *August 2020 - Present*
@@ -15,7 +23,7 @@ I am working as a research intern at **CEERI, Pilani** under [Prof. Solomon Raju
 
 ### **Autonomous UAV Based Human Detection System for Search and Rescue  | Thynklogy, Silicon Valley, California**
 
-*May 2020 - Present*
+*May 2020 - September 2020*
 
 I worked remotely under [Hanna Hans](https://www.linkedin.com/in/hanna-hans-360a8718a/). I Designed and Developed an Independent project which aims to develop a path planning algorithm that maximises the rate of detecting humans in an urban search operation. I experimented with the recently developed path planning algorithms such as APF, voxblox as well as a ESDF maps, to autonomously find a route, avoiding all obstracles in a 3D environment. I also used Computer Vision and Image Processing techniques and a Convolutional Neural Network trained to scan and identify the structure of humans via a primary camera installed on the drone.
 
