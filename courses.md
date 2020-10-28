@@ -11,16 +11,13 @@ layout: default
 * Fluid Mechanics
 * Applied Thermodynamics
 * Material Sciences
-* Data Structures and Algorithms
-* Pattern Recognition
-* Discrete Mathematics
 * Heat Transfer
+* Priduction Techniques
 
-### Discipline Electives
+### Open Electives
 
-* Robotics
-* Information Retrieval
-* Data Mining
+* Neural Networks and Fuzzy Logic
+* Pattern Recognition
 
 ### Mathematics
 
@@ -28,6 +25,7 @@ layout: default
 * Mathematics II - Linear Algebra
 * Mathematics III - Differential Equations
 * Probability and Statistics
+* Discrete Mathematics
 
 ### Other Courses
 
