@@ -5,17 +5,17 @@ layout: default
 ## Experience 
 ---
 
-### **Video Instance Segmentation | Visual Computing Group, Harvard John A. Paulson School Of Engineering And Applied Sciences**
+### **Video Instance Segmentation | 3D Volumetric Segmentation | Visual Computing Group, Harvard John A. Paulson School Of Engineering And Applied Sciences**
 
 *September 2020 - Present*
 
-I am currently wokring as a research intern in Computer Vision under [Prof. Hanspeter Pfister](https://www.seas.harvard.edu/person/hanspeter-pfister) with the [Visual Computing Group, Harvard ](https://vcg.seas.harvard.edu). Working on Video Instance Segmentation and Annotation for multi-scene, long-term shots using deep learning to publish a paper in CVPR'21 which presents a new video instance segmentation benchmark dataset, with 200 full-length top popular Youtube videos from 10 major video genres and 500K high-quality instance masks. Then, it also proposes the novel Shot-aware Multi-bank Memory (SMM) module to better integrate features from previous frames to support queries for long-term and cross-shot object segmentation. The team believe the cross-scene video instance segmentation task will motivate the community to advance in long-term video understanding and real-world video analytic applications.
+I am currently wokring as a research intern in Computer Vision under [Prof. Hanspeter Pfister](https://www.seas.harvard.edu/person/hanspeter-pfister) with the [Visual Computing Group, Harvard ](https://vcg.seas.harvard.edu). Currently working on 3D Volumetric Segmentation for Axon Detection using deep learning to publish a paper in MICCAI-21. Previously worked on Video Instance Segmentation and Annotation for multi-scene, long-term shots using deep learning to publish a paper in CVPR'21 which presents a new video instance segmentation benchmark dataset, with 200 full-length top popular Youtube videos from 10 major video genres and 500K high-quality instance masks. Then, it also proposes the novel Shot-aware Multi-bank Memory (SMM) module to better integrate features from previous frames to support queries for long-term and cross-shot object segmentation. The team believe the cross-scene video instance segmentation task will motivate the community to advance in long-term video understanding and real-world video analytic applications.
 
 ---
 
 ### **Machine Learning for Structural Health Monitoring | CRIS Central Electronics Engineering Research Institute**
 
-*August 2020 - Present*
+*August 2020 - December 2020*
 
 I am working as a research intern at **CEERI, Pilani** under [Prof. Solomon Raju](https://www.ceeri.res.in/profiles/kota-solomon-raju/). I am working on analyze Machine Learning algorithms for smart sensors like acoustic, strain gauges, and image processing and their use in the advancement of [Structural Health Monitoring](https://en.wikipedia.org/wiki/Structural_health_monitoring). I also developed the model curvature and matrix curvature analysis of these mothords using Machine Learning.. I further Implemented 2nd order ODE to find an alternative to NDT via the use of python in the Linear Regression Model. 
 
