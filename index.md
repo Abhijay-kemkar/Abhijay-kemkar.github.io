@@ -8,7 +8,7 @@ layout: default
 
 Hi! I am Abhijay. I am a pre-final year student at Birla Institute of Technology and Science (BITS), Pilani, majoring in Mechanical Engineering. I am broadly interested in Robotics, particularly in Aeriel Robotics, Pattern Recognition, Computer Vision, Motion Planning and Machine Learning.
 
-I am currently wokring as a research intern in Computer Vision under [Prof. Hanspeter Pfister](https://www.seas.harvard.edu/person/hanspeter-pfister) with the [Visual Computing Group, Harvard ](https://vcg.seas.harvard.edu). Working on Video Instance Segmentation and Annotation for multi-scene, long-term shots using deep learning to publish a paper in CVPR'21.
+I am currently wokring as a research intern in Computer Vision under [Prof. Hanspeter Pfister](https://www.seas.harvard.edu/person/hanspeter-pfister) with the [Visual Computing Group, Harvard ](https://vcg.seas.harvard.edu). Currently working on 3D Volumetric Segmentation for Axon Detection using deep learning to publish a paper in MICCAI-21 and previously worked on Video Instance Segmentation and Annotation for multi-scene, long-term shots using deep learning to publish a paper in CVPR'21.
 
 I am also currently working under [Prof. Solomon Raju](https://www.ceeri.res.in/profiles/kota-solomon-raju/) at the [CRIS Central Electronics Engineering Research Institute](https://www.ceeri.res.in) in Pilani, as a research Asistant. I worked on [Sructural Health Monitoring](https://en.wikipedia.org/wiki/Structural_health_monitoring) using Machine Learning, mostly experimenting with 2nd order ODE to better capture the model curvature and matrix curvature analysis.
 
