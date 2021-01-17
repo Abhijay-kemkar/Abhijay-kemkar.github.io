@@ -4,7 +4,11 @@ layout: default
 
 ### Mechanical Engineering
 
+* Robotics
 * Kinematics and Dynamics of Machines
+* Vibrations and Control
+* Engineering Optimization
+* Computer Aided Design
 * Machine Design and Drawing
 * IC Engines
 * Mechanics of Solids
@@ -13,11 +17,14 @@ layout: default
 * Material Sciences
 * Heat Transfer
 * Priduction Techniques
+* Prime movers and Fluid Machines
+* Supply Chain Management
 
 ### Open Electives
 
 * Neural Networks and Fuzzy Logic
 * Pattern Recognition
+* Foundations of Data Science
 
 ### Mathematics
 
